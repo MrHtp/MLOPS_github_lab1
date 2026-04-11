@@ -183,3 +183,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Storeproject_main/
+project_main.zip
+project_main/
+*.db
+mlruns/
+.DS_Store
